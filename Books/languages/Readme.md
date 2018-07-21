@@ -14,3 +14,8 @@ Here you can find useful books for programming languages.
 - #### ***[C/C++](https://github.com/hqxsn/Awesome-Bookmarks-From-Globe/tree/master/Books/languages/C%7CC%2B%2B/Readme.md)***
 
   Here you can find many free but useful books (PDF, etc) for C/C++ languages.
+
+- #### ***[Assembly](https://github.com/hqxsn/Awesome-Bookmarks-From-Globe/tree/master/Books/languages/Assembly/Readme.md)***
+
+  Here you can find many free but useful books (PDF, etc) for Assembly languages.
+
