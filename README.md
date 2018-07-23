@@ -30,4 +30,6 @@ Why not EverNotes? Because EverNotes is more personal flavour, I cannot share th
 - [Video](https://github.com/hqxsn/Awesome-Bookmarks-From-Globe/blob/master/Video)
 - [Websites](https://github.com/hqxsn/Awesome-Bookmarks-From-Globe/blob/master/Websites)
 - [Cheat Sheet](https://github.com/hqxsn/Awesome-Bookmarks-From-Globe/blob/master/Cheat_Sheet)
+- [Devops](https://github.com/hqxsn/Awesome-Bookmarks-From-Globe/blob/master/DevOps)
+- [Data Structures and Algorithms](https://github.com/hqxsn/Awesome-Bookmarks-From-Globe/blob/master/Dsts_and_algorithms)
 

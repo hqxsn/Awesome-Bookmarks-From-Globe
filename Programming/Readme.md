@@ -24,5 +24,7 @@ Here you can find useful references under Programming topic.
 
 11. [Clojure](https://github.com/hqxsn/Awesome-Bookmarks-From-Globe/tree/master/Programming/Clojure/Readme.md)
 
-    
+12. [Webassembly](https://github.com/hqxsn/Awesome-Bookmarks-From-Globe/tree/master/Programming/Webassembly)
+
+      
 
