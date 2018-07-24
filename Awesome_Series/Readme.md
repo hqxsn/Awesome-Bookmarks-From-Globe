@@ -14,7 +14,9 @@ Here you can find useful references about Awesome Series.
 
 6. [Online IDE](https://github.com/hqxsn/Awesome-Bookmarks-From-Globe/tree/master/Awesome_Series/OnlineIde/Readme.md) 
 
-7. [BASH](https://github.com/hqxsn/Awesome-Bookmarks-From-Globe/tree/master/Awesome_Series/Bash/Readme.md) 
+7. [BASH](https://github.com/hqxsn/Awesome-Bookmarks-From-Globe/tree/master/Awesome_Series/Bash/Readme.md)
 
-     
+8. [General](https://github.com/hqxsn/Awesome-Bookmarks-From-Globe/tree/master/Awesome_Series/General) 
+
+      
 

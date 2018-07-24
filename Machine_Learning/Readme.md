@@ -18,5 +18,7 @@ Here you can find useful references under Machine Learning topic.
 
 8. [Facial_recognition](https://github.com/hqxsn/Awesome-Bookmarks-From-Globe/tree/master/Machine_Learning/Facial_recognition)
 
+9. [NLP](https://github.com/hqxsn/Awesome-Bookmarks-From-Globe/tree/master/Machine_Learning/Nlp)
+
    ​    
 

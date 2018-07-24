@@ -10,4 +10,6 @@ Here you can find useful references about Awesome Series.
 6. [Facial Detection](https://github.com/hqxsn/Awesome-Bookmarks-From-Globe/tree/master/Projects/DeepLearning/facial_detection)
 7. [NLP](https://github.com/hqxsn/Awesome-Bookmarks-From-Globe/tree/master/Projects/DeepLearning/nlp)
 8. [Object Detection](https://github.com/hqxsn/Awesome-Bookmarks-From-Globe/tree/master/Projects/DeepLearning/object_detection)
+9. [Model](https://github.com/hqxsn/Awesome-Bookmarks-From-Globe/tree/master/Projects/DeepLearning/model)
+10. [Text Recognition](https://github.com/hqxsn/Awesome-Bookmarks-From-Globe/tree/master/Projects/DeepLearning/text_recognition)
 

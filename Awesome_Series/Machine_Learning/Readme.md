@@ -6,8 +6,12 @@ Here you can find useful references about Machine Learning of Awesome Series.
 
 2. [Deep-Learning-NLP](https://github.com/astorfi/Deep-Learning-NLP)
 
-   
+3. [Tracking Progress in Natural Language Processing](https://github.com/sebastianruder/NLP-progress)
+
+   [Blog](http://ruder.io/tracking-progress-nlp/)
 
     
 
-    
+     
+
+     

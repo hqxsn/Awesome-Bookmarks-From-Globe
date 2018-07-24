@@ -6,6 +6,10 @@ Here you can find useful references around C/C++.
 
   In this post, we will explore how to use the various references of C++ to minimize copies when constructing an object that holds a value, and how in some cases we can even reach zero copies.
 
+  
+
+  
+
    
 
   
