@@ -26,5 +26,9 @@ Here you can find useful references under Programming topic.
 
 12. [Webassembly](https://github.com/hqxsn/Awesome-Bookmarks-From-Globe/tree/master/Programming/Webassembly)
 
+13. [Mathmatics](https://github.com/hqxsn/Awesome-Bookmarks-From-Globe/tree/master/Programming/Mathmatics)
+
+14. [Debugging](https://github.com/hqxsn/Awesome-Bookmarks-From-Globe/tree/master/Programming/Debugging)
+
       
 

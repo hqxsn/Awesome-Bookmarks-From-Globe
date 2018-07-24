@@ -14,5 +14,9 @@ Here you can find useful references under Machine Learning topic.
 
 6. [Practice](https://github.com/hqxsn/Awesome-Bookmarks-From-Globe/tree/master/Machine_Learning/Practice/Readme.md)
 
+7. [Knowledge Graph](https://github.com/hqxsn/Awesome-Bookmarks-From-Globe/tree/master/Machine_Learning/Knowledge_graph)
+
+8. [Facial_recognition](https://github.com/hqxsn/Awesome-Bookmarks-From-Globe/tree/master/Machine_Learning/Facial_recognition)
+
    ​    
 
