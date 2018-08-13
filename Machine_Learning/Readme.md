@@ -12,13 +12,21 @@ Here you can find useful references under Machine Learning topic.
 
 5. [Text To Speech]([Visualization](https://github.com/hqxsn/Awesome-Bookmarks-From-Globe/tree/master/Machine_Learning/TextToSpeech/Readme.md) )
 
-6. [Practice](https://github.com/hqxsn/Awesome-Bookmarks-From-Globe/tree/master/Machine_Learning/Practice/Readme.md)
+6. [Speech To Text]([Visualization](https://github.com/hqxsn/Awesome-Bookmarks-From-Globe/tree/master/Machine_Learning/SpeechToText/Readme.md) )
 
-7. [Knowledge Graph](https://github.com/hqxsn/Awesome-Bookmarks-From-Globe/tree/master/Machine_Learning/Knowledge_graph)
+7. [Practice](https://github.com/hqxsn/Awesome-Bookmarks-From-Globe/tree/master/Machine_Learning/Practice/Readme.md)
 
-8. [Facial_recognition](https://github.com/hqxsn/Awesome-Bookmarks-From-Globe/tree/master/Machine_Learning/Facial_recognition)
+8. [Knowledge Graph](https://github.com/hqxsn/Awesome-Bookmarks-From-Globe/tree/master/Machine_Learning/Knowledge_graph)
 
-9. [NLP](https://github.com/hqxsn/Awesome-Bookmarks-From-Globe/tree/master/Machine_Learning/Nlp)
+9. [Facial_recognition](https://github.com/hqxsn/Awesome-Bookmarks-From-Globe/tree/master/Machine_Learning/Facial_recognition)
 
-   ​    
+10. [Object_recognition](https://github.com/hqxsn/Awesome-Bookmarks-From-Globe/tree/master/Machine_Learning/Object_recognition)
+
+11. [NLP](https://github.com/hqxsn/Awesome-Bookmarks-From-Globe/tree/master/Machine_Learning/Nlp)
+
+12. [Artificial Intelligence](https://github.com/hqxsn/Awesome-Bookmarks-From-Globe/tree/master/Machine_Learning/Artificial_Intelligence)
+
+13. [Nudity](https://github.com/hqxsn/Awesome-Bookmarks-From-Globe/tree/master/Machine_Learning/Nudity)
+
+    ​    
 

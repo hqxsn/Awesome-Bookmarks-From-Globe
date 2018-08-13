@@ -10,3 +10,5 @@ Here you can find useful references under General topic.
 
 - [Strings are evil](https://dev.to/indy_singh_uk/strings-are-evil-9f9)
 
+- [ Tips for Aspiring Developers](https://able.bio/DavidLandup/tips-for-aspiring-developers-self-taught-story--13w2ce4)
+

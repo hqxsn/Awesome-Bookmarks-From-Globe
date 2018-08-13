@@ -14,5 +14,9 @@ Here you can find useful references under java topic.
 
   [**Safepoints**](http://blog.ragozin.info/2012/10/safepoints-in-hotspot-jvm.html) could block your whole entire jvm gc under the mark.
 
+- [JVM internals](http://blog.jamesdbloom.com/JVMInternals.html)
+
+  This article explains the internal architecture of the Java Virtual Machine (JVM). The following diagram show the key internal components of a typical JVM that conforms to [The Java Virtual Machine Specification Java SE 7 Edition](http://www.amazon.co.uk/Virtual-Machine-Specification-Edition-Series/dp/0133260445).
+
 
 

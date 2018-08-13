@@ -15,3 +15,7 @@ Here you can find useful references under Reflection topic.
   - > Note that for building a real program, procedural decomposition is not optional.
 
   - > The safe fragment of Rust is a mix of a) and c) -- it permits you to create aliases of pointers to data only when you don't use them to mutate.
+
+- [Two Years Later: APIs are the Destination](https://www.ebayinc.com/stories/blogs/tech/two-years-later-apis-are-destination/)
+
+  The APIs evolved and grew with the business and enabled expansion to new experiences. They are built by developers for developers and treated as first-class products at eBay. We delivered a simple, consistent, and well-documented API portfolio rather than an API maze where it is challenging to discover capabilities.

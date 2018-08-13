@@ -18,3 +18,9 @@ Here you can find useful books for Libraries.
 
   Foray into the world of competitive programming
 
+- [Scholar document searcher](http://scholar.chongbuluo.com/)
+
+  [Google Scholar](https://scholar.google.com)
+
+  Search scholar documents around the world.
+

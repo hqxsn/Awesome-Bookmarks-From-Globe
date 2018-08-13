@@ -30,5 +30,7 @@ Here you can find useful references under Programming topic.
 
 14. [Debugging](https://github.com/hqxsn/Awesome-Bookmarks-From-Globe/tree/master/Programming/Debugging)
 
-      
+15. [Perl](https://github.com/hqxsn/Awesome-Bookmarks-From-Globe/tree/master/Programming/Perl)
+
+    ​    
 
