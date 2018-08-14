@@ -12,3 +12,5 @@ Here you can find useful references under General topic.
 
 - [ Tips for Aspiring Developers](https://able.bio/DavidLandup/tips-for-aspiring-developers-self-taught-story--13w2ce4)
 
+- [Rest apis are not databases](https://medium.com/@marinithiago/guys-rest-apis-are-not-databases-60db4e1120e4)
+

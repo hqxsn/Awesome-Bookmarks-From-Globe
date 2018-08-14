@@ -32,5 +32,7 @@ Here you can find useful references under Programming topic.
 
 15. [Perl](https://github.com/hqxsn/Awesome-Bookmarks-From-Globe/tree/master/Programming/Perl)
 
+16. [SQL](https://github.com/hqxsn/Awesome-Bookmarks-From-Globe/tree/master/Programming/Sql)
+
     ​    
 
